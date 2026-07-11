@@ -1,21 +1,21 @@
 <p align="center">
   <img src="banner.png" width="100%">
 </p>
-# Hi there 👋, I'm Hassan Nawaz
+# Hi there , I'm Hassan Nawaz
 
-## 🤖 AI Engineer | BS Artificial Intelligence Student
+## AI Engineer | BS Artificial Intelligence Student
 
 I am passionate about Artificial Intelligence and enjoy building intelligent applications using Machine Learning and Deep Learning.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🎓 BS Artificial Intelligence Student
+ BS Artificial Intelligence Student
 
-💻 AI Engineer
+ AI Engineer
 
-🌱 Currently Learning:
+ Currently Learning:
 - Machine Learning
 - Deep Learning
 - Generative AI
@@ -23,12 +23,12 @@ I am passionate about Artificial Intelligence and enjoy building intelligent app
 - PyTorch
 - TensorFlow
 
-🎯 Goal:
+Goal:
 Become a world-class AI Engineer and contribute to Open Source AI projects.
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 - Python
 - C++
@@ -45,17 +45,17 @@ Become a world-class AI Engineer and contribute to Open Source AI projects.
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-- 🤖 AI Chatbot
-- 🎓 Smart Attendance System
-- 😊 Face Recognition System
-- 📊 Machine Learning Projects
-- 🧠 Deep Learning Projects
+- AI Chatbot
+- Smart Attendance System
+- Face Recognition System
+- Machine Learning Projects
+- Deep Learning Projects
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 GitHub: https://github.com/hassan-nawaz-ai
 
@@ -63,4 +63,4 @@ Location: Mansehra, Pakistan
 
 ---
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
