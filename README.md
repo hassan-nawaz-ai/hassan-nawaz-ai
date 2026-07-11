@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there 👋, I'm Hassan Nawaz
 
-<!--
-**hassan-nawaz-ai/hassan-nawaz-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 AI Engineer | BS Artificial Intelligence Student
 
-Here are some ideas to get you started:
+I am passionate about Artificial Intelligence and enjoy building intelligent applications using Machine Learning and Deep Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+🎓 BS Artificial Intelligence Student
+
+💻 AI Engineer
+
+🌱 Currently Learning:
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Agentic AI
+- PyTorch
+- TensorFlow
+
+🎯 Goal:
+Become a world-class AI Engineer and contribute to Open Source AI projects.
+
+---
+
+## 🛠️ Languages & Tools
+
+- Python
+- C++
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- PyTorch
+- TensorFlow
+- OpenCV
+- NumPy
+- Pandas
+- Scikit-learn
+
+---
+
+## 📂 Featured Projects
+
+- 🤖 AI Chatbot
+- 🎓 Smart Attendance System
+- 😊 Face Recognition System
+- 📊 Machine Learning Projects
+- 🧠 Deep Learning Projects
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/hassan-nawaz-ai
+
+Location: Mansehra, Pakistan
+
+---
+
+⭐ Thanks for visiting my profile!
